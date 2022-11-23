@@ -1,0 +1,3 @@
+[submodule "hugotest/testsite"]
+	path = hugotest
+	url =  https://github.com/gulsaar/hugotest.git
